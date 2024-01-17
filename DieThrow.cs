@@ -3,6 +3,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Preston Fitzgerald
+//Class for dice throwing to supplement the main program
+
 namespace DiceGame
 {
     // Dic throwing class
