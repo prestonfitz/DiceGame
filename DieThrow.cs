@@ -20,6 +20,7 @@ namespace DiceGame
             // use the user specified amount
             for (int i = 0; i < throws; i++)
             {
+                // this is a dice roll
                 int Die1 = rnd.Next(1, 7);
                 int Die2 = rnd.Next(1, 7);
                 int result = Die1 + Die2;

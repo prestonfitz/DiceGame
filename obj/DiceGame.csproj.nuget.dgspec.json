@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prest\\source\\repos\\DiceGame\\DiceGame.csproj": {}
+    "C:\\Users\\prest\\source\\repos\\DiceGame\\DiceGame\\DiceGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prest\\source\\repos\\DiceGame\\DiceGame.csproj": {
+    "C:\\Users\\prest\\source\\repos\\DiceGame\\DiceGame\\DiceGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prest\\source\\repos\\DiceGame\\DiceGame.csproj",
+        "projectUniqueName": "C:\\Users\\prest\\source\\repos\\DiceGame\\DiceGame\\DiceGame.csproj",
         "projectName": "DiceGame",
-        "projectPath": "C:\\Users\\prest\\source\\repos\\DiceGame\\DiceGame.csproj",
+        "projectPath": "C:\\Users\\prest\\source\\repos\\DiceGame\\DiceGame\\DiceGame.csproj",
         "packagesPath": "C:\\Users\\prest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prest\\source\\repos\\DiceGame\\obj\\",
+        "outputPath": "C:\\Users\\prest\\source\\repos\\DiceGame\\DiceGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prest\\AppData\\Roaming\\NuGet\\NuGet.Config",

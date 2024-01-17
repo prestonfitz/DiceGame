@@ -26,15 +26,25 @@ internal class Program
         // calculate and print percentages
         for (int i = 0; i < 11; i++)
         {
+            // create a variables for the stars
             string stars = "";
+
+            // pull data from array
             int rolls = results[i];
+
+            // make a percent
             float rawPercent;
             rawPercent = ((float)rolls / throws) * 100;
+
+            // round the percent so that we don't have partials
             decimal Percent = Math.Round((decimal)rawPercent, 0, MidpointRounding.AwayFromZero);
+
+            // add the right number of stars to the variable
             for (int i2 = 0; i2 < Percent; i2++)
             {
                 stars = stars + "*";
             }
+
             // display histogram
             Console.WriteLine((i+2) + ": \t" + stars);
         }

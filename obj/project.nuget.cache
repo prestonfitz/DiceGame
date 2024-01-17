@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jj6fcQ1nprxGu9Psg0tpM8cwVWPAb9lzBAD0Xiq3EcLzgrxTG/pTn89rxigqqPzrRHAaWaaFprHd0QycZYscLw==",
+  "dgSpecHash": "MGnAn9bnzRbns/Ed5wW9sic/HPhTB06lv/A+HhKLYLKhzhjyncmYh7ivzIk8z8aowhWRPJE8UZSprmO+ye4ZRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\prest\\source\\repos\\DiceGame\\DiceGame.csproj",
+  "projectFilePath": "C:\\Users\\prest\\source\\repos\\DiceGame\\DiceGame\\DiceGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
